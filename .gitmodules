@@ -1,0 +1,3 @@
+[submodule "gitstarter"]
+	path = gitstarter
+	url = https://github.com/YAMAHAH/gitstarter.git
